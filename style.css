@@ -1,13 +1,10 @@
 
 body {
- 
   height: 100%;
-  
   background-color: rgb(18, 18, 18);
-  
-}
+  }
 
-/* Layout */
+Layout
 #formContainer{
   margin-left: 1em;
   margin-top: 2em;
@@ -56,21 +53,22 @@ body {
 
 /* Shapes */
 .square {
-
+  position: absolute;
   background-color:red;
  
 }
 
 .circle {
+  position: absolute;
   border-radius: 50%;
   background-color:red;
 }
 
 .rectangle {
+  position: absolute;
   background-color: red;
 }
 
 .triangle {
-  
   position: absolute;
 }
